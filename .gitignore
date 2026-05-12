@@ -1,0 +1,18 @@
+# Ignorar carpetas de Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Ignorar binarios y objetos compilados
+bin/
+obj/
+Debug/
+Release/
+
+# Ignorar archivos temporales
+*.log
+*.tmp
+*.bak
+*.swp
